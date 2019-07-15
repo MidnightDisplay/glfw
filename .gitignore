@@ -1,3 +1,11 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user
+
 # External junk
 .DS_Store
 _ReSharper*
